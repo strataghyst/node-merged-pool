@@ -1,6 +1,6 @@
 {
   "name": "merged-pooler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "High performance Stratum poolserver in Node.js for merged mining",
   "keywords": [
     "stratum",
@@ -15,9 +15,9 @@
     "multipool",
     "multicoin"
   ],
-  "homepage": "https://github.com/UNOMP/node-merged-pool",
+  "homepage": "https://github.com/strataghyst/node-merged-pool",
   "bugs": {
-    "url": "https://github.com/UNOMP/node-merged-pool/issues"
+    "url": "https://github.com/strataghyst/node-merged-pool/issues"
   },
   "license": "GPL-2.0",
   "author": {
@@ -37,13 +37,16 @@
       "name": "sigwo"
     },
     {
+      "name": "Strataghyst"
+    },
+    {
       "name": "infernoman"
     }
   ],
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UNOMP/node-merged-pool.git"
+    "url": "https://github.com/strataghyst/node-merged-pool.git"
   },
   "dependencies": {
     "unomp-multi-hashing": "*",
@@ -61,6 +64,6 @@
   "dist": {
     "shasum": "59640d127447c070a536ba5d8569b99247a2c421"
   },
-  "_resolved": "git://github.com/UNOMP/node-merged-pool#408bf596be5ef03d62eb173fc449c5f87b3a604b",
-  "_from": "git://github.com/UNOMP/node-merged-pool"
+  "_resolved": "git://github.com/strataghyst/node-merged-pool#408bf596be5ef03d62eb173fc449c5f87b3a604b",
+  "_from": "git://github.com/strataghyst/node-merged-pool"
 }
