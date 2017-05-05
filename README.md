@@ -43,6 +43,7 @@ Features
 * ✓ __Keccak__ (Maxcoin [MAX], HelixCoin, CryptoMeth, Galleon, 365coin, Slothcoin, BitcointalkCoin)
 * ✓ __Skein__ (Skeincoin [SKC])
 * ✓ __Groestl__ (Groestlcoin [GRS])
+* ✓ __Groestlmyraid__ (Myriadcoin, Digibyte, Auroracoin)
 
 May be working (needs additional testing):
 * ? *Blake* (Blakecoin [BLC])
@@ -52,7 +53,6 @@ May be working (needs additional testing):
 * ? *Sha1* (Sha1coin [SHA], Yaycoin [YAY])
 
 Not working currently:
-* *Groestl* - for Myriadcoin
 * *Keccak* - for eCoin & Copperlark
 * *Hefty1* (Heavycoin [HVC])
 
